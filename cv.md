@@ -80,3 +80,59 @@ int main()
     June 2010 – May 2012 | Minsk, Belarus
         * Sales, installation and maintenance system of satellite monitoring of transport.
         * Website Development: **CMS Joomla**, **CMS Drupal**.
+
+## Education
+* BELARUSIAN STATE UNIVERSITY
+    * BS in Radiophysics, Satellite information systems and technology<br/>
+    Average GPA : 6.61 / 10.0<br/>
+    September 2007 – July 2012 | Minsk, Belarus
+* SAMARA STATE AEROSPACE UNIVERSITY
+    * Summer Space School | 3.5 ECTS | August 2011 | Samara, Russia
+    * Summer Space School | 3.5 ECTS | August 2013 | Samara, Russia
+* MOSCOW STATE UNIVERSITY
+    * Youth Scientific School<br/>
+    October 2009 | Kostroma, Russia
+    * Short practice<br/>
+    November 2009 – December 2009 | Moscow, Russia
+    * Youth conference with elements of scientific school<br/>
+    March 2011 – April 2011 | Moscow, Russia
+
+## Courses
+* С++
+    * С++ Programming<br/>
+    March 2018 – May 2018 | Minsk, Belarus
+    * C++ Development Fundamentals: White Belt<br/>
+    February 2020 – March 2020 | Minsk, Belarus
+    * C++ Development Fundamentals: Yellow Belt<br/>
+    March 2020 – … | Minsk, Belarus
+    * C++ EPAM Mentoring Program<br/>
+    May 2020 – … | Minsk + Brest, Belarus
+* LaTeX
+    * Documents and presentations in LaTeX (Introduction to LaTeX)<br/>
+    May 2016 – June 2016 | Minsk, Belarus
+* Ruby
+    * Building web applications with Ruby on Rails (course.by)<br/>
+    February 2015 – June 2015 | Minsk, Belarus
+* JAVA
+    * Java. JD1. Programming in Java<br/>
+    October 2012 – December 2013 | Minsk, Belarus
+* LabVIEW
+    * LabVIEW – Basics I<br/>
+    December 2010 | Minsk, Belarus
+    * LabVIEW – Data Acquisition<br/>
+    January 2011 | Minsk, Belarus
+
+## English language
+Current level of English is A2+.
+* A1. Elementary level
+    Exam : 98 / 100<br/>
+    September 2015 – December 2015 | Minsk, Belarus
+* A2. Pre-Intermediate level
+    Exam : 98 / 100<br/>
+    January 2016 – May 2016 | Minsk, Belarus
+* B1. Intermediate level
+    Exam : 82 / 100<br/>
+    September 2016 – December 2016 | Minsk, Belarus
+* B2. Upper-Intermediate level
+    Exam : 60.5 / 100<br/>
+    January 2017 – May 2017 | Minsk, Belarus
